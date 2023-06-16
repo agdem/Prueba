@@ -8,3 +8,14 @@ h2 {
     color: blueviolet;
   text-align: center;}
 
+  .container {
+      display: flex;
+      justify-content: center;
+  }
+
+  ul {
+      background-color: orange;
+      padding: 30px;
+      border-radius: 8px 8px 8px 8px;
+  }
+
