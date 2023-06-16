@@ -8,3 +8,8 @@ h2 {
     color: blueviolet;
   text-align: center;}
 
+  .container {
+      display: flex;
+      justify-content: center;
+  }
+
